@@ -52,6 +52,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         map.addMarker(new MarkerOptions().position(poss2).title("poss2"));
         map.moveCamera(CameraUpdateFactory.newLatLngZoom(poss2, 14));
         //%%%%%%%%%%%%%%%%%%
+        //##################
     }
 
 
