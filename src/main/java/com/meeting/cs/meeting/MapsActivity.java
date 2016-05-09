@@ -53,6 +53,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         map.moveCamera(CameraUpdateFactory.newLatLngZoom(poss2, 14));
         //%%%%%%%%%%%%%%%%%%
         //##################
+        //ESto es una prueba del GIT
     }
 
 
