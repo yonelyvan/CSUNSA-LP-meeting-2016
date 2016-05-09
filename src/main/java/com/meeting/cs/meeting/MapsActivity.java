@@ -54,6 +54,12 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         //%%%%%%%%%%%%%%%%%%
         //##################
         //ESto es una prueba del GIT
+        //%%%%%%%%%%%%%%%%%%
+        //##################
+        //ESto es una prueba del GIT
+        //%%%%%%%%%%%%%%%%%%
+        //##################
+        //ESto es una prueba del GIT
     }
 
 
